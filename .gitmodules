@@ -1,0 +1,6 @@
+[submodule "Assets/Scripts/VirtualCurrency"]
+	path = Assets/Scripts/GameDevUtils/VirtualCurrency
+	url = https://github.com/UmairSaifullah01/VirtualCurrency.git
+[submodule "Assets/Scripts/GameDevUtils"]
+	path = Assets/Scripts/GameDevUtils
+	url = https://github.com/UmairSaifullah01/GameDevUtils.git
